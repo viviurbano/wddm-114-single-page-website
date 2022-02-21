@@ -96,13 +96,13 @@ a {
   background-color: #fce0cf;
 }
 
-/* .container-inner {
+.container-inner {
   width: 50%;
   padding: auto;
-} */
+}
 
 .space {
-  padding: 48px;
+  margin: 48px;
   width: 50%;
 }
 
